@@ -1,0 +1,9 @@
+:root {
+  --primary-color: #fdffcd;
+}
+h1 {
+  font-size: 96px;
+}
+body {
+  margin-top: 80px;
+}
