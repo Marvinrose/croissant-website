@@ -49,9 +49,17 @@ nav {
   color: white;
 }
 p {
-  font-family: "PT Mono", "Cerebri Sans";
+  font-family: "Poppins", Arial, "Cerebri" sans-serif, monospace;
 }
 .contact-paragraph {
   font-size: 20px;
   text-align: center;
+}
+.carousel-indicators button {
+  border-radius: 50%;
+}
+@media (max-width: 576px) {
+  .image-section img {
+    display: none;
+  }
 }
