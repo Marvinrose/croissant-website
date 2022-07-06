@@ -1,9 +1,52 @@
 :root {
-  --primary-color: #fdffcd;
+  --primary-color: #fcffa9;
 }
 h1 {
   font-size: 96px;
+  font-family: "Smooch", cursive;
 }
 body {
   margin-top: 100px;
+}
+.logo-title img {
+  float: left;
+}
+.logo-title {
+  text-decoration: none;
+  font-size: 27px;
+  font-weight: 600;
+  font-family: "Smooch", cursive;
+  color: green;
+  vertical-align: top;
+}
+.logo-title:hover {
+  color: green;
+}
+.nav-links {
+  float: right;
+}
+.nav-links a {
+  text-decoration: none;
+  color: green;
+  padding: 5px;
+  margin: 5px;
+}
+.nav-links a:hover {
+  text-decoration: underline;
+}
+nav {
+  background-color: var(--primary-color);
+}
+.button {
+  padding: 20px 15px;
+  border-radius: 4px;
+  background-color: green;
+  color: white;
+  text-decoration: none;
+}
+.homepage-button a:hover {
+  color: white;
+}
+p {
+  font-family: "PT Mono", "Cerebri Sans";
 }
