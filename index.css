@@ -24,6 +24,7 @@ body {
 }
 .nav-links {
   float: right;
+  font-weight: bold;
 }
 .nav-links a {
   text-decoration: none;
