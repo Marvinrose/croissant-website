@@ -18,14 +18,14 @@ body {
   font-weight: 600;
   font-family: "Smooch", cursive;
   color: green;
-  vertical-align: top;
+  vertical-align: bottom;
 }
 .logo-title:hover {
   color: green;
 }
 .nav-links {
   float: right;
-  font-weight: bold;
+  font-weight: 400;
 }
 .nav-links a {
   text-decoration: none;
