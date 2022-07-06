@@ -62,4 +62,7 @@ p {
   .image-section img {
     display: none;
   }
+  h1 {
+    font-size: 75px;
+  }
 }
