@@ -51,3 +51,7 @@ nav {
 p {
   font-family: "PT Mono", "Cerebri Sans";
 }
+.contact-paragraph {
+  font-size: 20px;
+  text-align: center;
+}
